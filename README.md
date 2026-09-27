@@ -55,10 +55,10 @@ with open(import_file, "w") as file:
 
 1. Clone this repository:
    ```
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd your-repository
+   git clone https://github.com/smormu31415/cybersecurity-allowlist-algorithm.git
+   cd cybersecurity-allowlist-algorithm
    ```
 2. Run the script:
    ```
-   python3 update_allowlist.py
+   python3 main.py
    ```
